@@ -1,0 +1,10 @@
+.venv/
+airflow_venv/
+.idea/
+
+logs/
+testing/
+
+*.pyc
+__pycache__/
+.DS_Store

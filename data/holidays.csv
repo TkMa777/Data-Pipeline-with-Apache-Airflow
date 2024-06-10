@@ -1,0 +1,164 @@
+date,nom_vacances,vacances_zone_a,vacances_zone_b,vacances_zone_c,is_public_holiday
+2024-01-01,Vacances de Noël,True,True,True,False
+2024-01-02,Vacances de Noël,True,True,True,False
+2024-01-03,Vacances de Noël,True,True,True,False
+2024-01-04,Vacances de Noël,True,True,True,False
+2024-01-05,Vacances de Noël,True,True,True,False
+2024-01-06,Vacances de Noël,True,True,True,False
+2024-01-07,Vacances de Noël,True,True,True,False
+2024-02-10,Vacances d'hiver,False,False,True,False
+2024-02-11,Vacances d'hiver,False,False,True,False
+2024-02-12,Vacances d'hiver,False,False,True,False
+2024-02-13,Vacances d'hiver,False,False,True,False
+2024-02-14,Vacances d'hiver,False,False,True,False
+2024-02-15,Vacances d'hiver,False,False,True,False
+2024-02-16,Vacances d'hiver,False,False,True,False
+2024-02-17,Vacances d'hiver,True,False,True,False
+2024-02-18,Vacances d'hiver,True,False,True,False
+2024-02-19,Vacances d'hiver,True,False,True,False
+2024-02-20,Vacances d'hiver,True,False,True,False
+2024-02-21,Vacances d'hiver,True,False,True,False
+2024-02-22,Vacances d'hiver,True,False,True,False
+2024-02-23,Vacances d'hiver,True,False,True,False
+2024-02-24,Vacances d'hiver,True,True,True,False
+2024-02-25,Vacances d'hiver,True,True,True,False
+2024-02-26,Vacances d'hiver,True,True,False,False
+2024-02-27,Vacances d'hiver,True,True,False,False
+2024-02-28,Vacances d'hiver,True,True,False,False
+2024-02-29,Vacances d'hiver,True,True,False,False
+2024-03-01,Vacances d'hiver,True,True,False,False
+2024-03-02,Vacances d'hiver,True,True,False,False
+2024-03-03,Vacances d'hiver,True,True,False,False
+2024-03-04,Vacances d'hiver,False,True,False,False
+2024-03-05,Vacances d'hiver,False,True,False,False
+2024-03-06,Vacances d'hiver,False,True,False,False
+2024-03-07,Vacances d'hiver,False,True,False,False
+2024-03-08,Vacances d'hiver,False,True,False,False
+2024-03-09,Vacances d'hiver,False,True,False,False
+2024-03-10,Vacances d'hiver,False,True,False,False
+2024-04-06,Vacances de printemps,False,False,True,False
+2024-04-07,Vacances de printemps,False,False,True,False
+2024-04-08,Vacances de printemps,False,False,True,False
+2024-04-09,Vacances de printemps,False,False,True,False
+2024-04-10,Vacances de printemps,False,False,True,False
+2024-04-11,Vacances de printemps,False,False,True,False
+2024-04-12,Vacances de printemps,False,False,True,False
+2024-04-13,Vacances de printemps,True,False,True,False
+2024-04-14,Vacances de printemps,True,False,True,False
+2024-04-15,Vacances de printemps,True,False,True,False
+2024-04-16,Vacances de printemps,True,False,True,False
+2024-04-17,Vacances de printemps,True,False,True,False
+2024-04-18,Vacances de printemps,True,False,True,False
+2024-04-19,Vacances de printemps,True,False,True,False
+2024-04-20,Vacances de printemps,True,True,True,False
+2024-04-21,Vacances de printemps,True,True,True,False
+2024-04-22,Vacances de printemps,True,True,False,False
+2024-04-23,Vacances de printemps,True,True,False,False
+2024-04-24,Vacances de printemps,True,True,False,False
+2024-04-25,Vacances de printemps,True,True,False,False
+2024-04-26,Vacances de printemps,True,True,False,False
+2024-04-27,Vacances de printemps,True,True,False,False
+2024-04-28,Vacances de printemps,True,True,False,False
+2024-04-29,Vacances de printemps,False,True,False,False
+2024-04-30,Vacances de printemps,False,True,False,False
+2024-05-01,Vacances de printemps,False,True,False,False
+2024-05-02,Vacances de printemps,False,True,False,False
+2024-05-03,Vacances de printemps,False,True,False,False
+2024-05-04,Vacances de printemps,False,True,False,False
+2024-05-05,Vacances de printemps,False,True,False,False
+2024-07-06,Vacances d'été,True,True,True,False
+2024-07-07,Vacances d'été,True,True,True,False
+2024-07-08,Vacances d'été,True,True,True,False
+2024-07-09,Vacances d'été,True,True,True,False
+2024-07-10,Vacances d'été,True,True,True,False
+2024-07-11,Vacances d'été,True,True,True,False
+2024-07-12,Vacances d'été,True,True,True,False
+2024-07-13,Vacances d'été,True,True,True,False
+2024-07-14,Vacances d'été,True,True,True,False
+2024-07-15,Vacances d'été,True,True,True,False
+2024-07-16,Vacances d'été,True,True,True,False
+2024-07-17,Vacances d'été,True,True,True,False
+2024-07-18,Vacances d'été,True,True,True,False
+2024-07-19,Vacances d'été,True,True,True,False
+2024-07-20,Vacances d'été,True,True,True,False
+2024-07-21,Vacances d'été,True,True,True,False
+2024-07-22,Vacances d'été,True,True,True,False
+2024-07-23,Vacances d'été,True,True,True,False
+2024-07-24,Vacances d'été,True,True,True,False
+2024-07-25,Vacances d'été,True,True,True,False
+2024-07-26,Vacances d'été,True,True,True,False
+2024-07-27,Vacances d'été,True,True,True,False
+2024-07-28,Vacances d'été,True,True,True,False
+2024-07-29,Vacances d'été,True,True,True,False
+2024-07-30,Vacances d'été,True,True,True,False
+2024-07-31,Vacances d'été,True,True,True,False
+2024-08-01,Vacances d'été,True,True,True,False
+2024-08-02,Vacances d'été,True,True,True,False
+2024-08-03,Vacances d'été,True,True,True,False
+2024-08-04,Vacances d'été,True,True,True,False
+2024-08-05,Vacances d'été,True,True,True,False
+2024-08-06,Vacances d'été,True,True,True,False
+2024-08-07,Vacances d'été,True,True,True,False
+2024-08-08,Vacances d'été,True,True,True,False
+2024-08-09,Vacances d'été,True,True,True,False
+2024-08-10,Vacances d'été,True,True,True,False
+2024-08-11,Vacances d'été,True,True,True,False
+2024-08-12,Vacances d'été,True,True,True,False
+2024-08-13,Vacances d'été,True,True,True,False
+2024-08-14,Vacances d'été,True,True,True,False
+2024-08-15,Vacances d'été,True,True,True,False
+2024-08-16,Vacances d'été,True,True,True,False
+2024-08-17,Vacances d'été,True,True,True,False
+2024-08-18,Vacances d'été,True,True,True,False
+2024-08-19,Vacances d'été,True,True,True,False
+2024-08-20,Vacances d'été,True,True,True,False
+2024-08-21,Vacances d'été,True,True,True,False
+2024-08-22,Vacances d'été,True,True,True,False
+2024-08-23,Vacances d'été,True,True,True,False
+2024-08-24,Vacances d'été,True,True,True,False
+2024-08-25,Vacances d'été,True,True,True,False
+2024-08-26,Vacances d'été,True,True,True,False
+2024-08-27,Vacances d'été,True,True,True,False
+2024-08-28,Vacances d'été,True,True,True,False
+2024-08-29,Vacances d'été,True,True,True,False
+2024-08-30,Vacances d'été,True,True,True,False
+2024-08-31,Vacances d'été,True,True,True,False
+2024-09-01,Vacances d'été,True,True,True,False
+2024-10-19,Vacances de la Toussaint,True,True,True,False
+2024-10-20,Vacances de la Toussaint,True,True,True,False
+2024-10-21,Vacances de la Toussaint,True,True,True,False
+2024-10-22,Vacances de la Toussaint,True,True,True,False
+2024-10-23,Vacances de la Toussaint,True,True,True,False
+2024-10-24,Vacances de la Toussaint,True,True,True,False
+2024-10-25,Vacances de la Toussaint,True,True,True,False
+2024-10-26,Vacances de la Toussaint,True,True,True,False
+2024-10-27,Vacances de la Toussaint,True,True,True,False
+2024-10-28,Vacances de la Toussaint,True,True,True,False
+2024-10-29,Vacances de la Toussaint,True,True,True,False
+2024-10-30,Vacances de la Toussaint,True,True,True,False
+2024-10-31,Vacances de la Toussaint,True,True,True,False
+2024-11-01,Vacances de la Toussaint,True,True,True,False
+2024-11-02,Vacances de la Toussaint,True,True,True,False
+2024-11-03,Vacances de la Toussaint,True,True,True,False
+2024-12-21,Vacances de Noël,True,True,True,False
+2024-12-22,Vacances de Noël,True,True,True,False
+2024-12-23,Vacances de Noël,True,True,True,False
+2024-12-24,Vacances de Noël,True,True,True,False
+2024-12-25,Vacances de Noël,True,True,True,False
+2024-12-26,Vacances de Noël,True,True,True,False
+2024-12-27,Vacances de Noël,True,True,True,False
+2024-12-28,Vacances de Noël,True,True,True,False
+2024-12-29,Vacances de Noël,True,True,True,False
+2024-12-30,Vacances de Noël,True,True,True,False
+2024-12-31,Vacances de Noël,True,True,True,False
+2024-01-01,New Year's Day,False,False,False,True
+2024-05-01,Labor Day,False,False,False,True
+2024-05-08,Victory Day,False,False,False,True
+2024-07-14,National Day,False,False,False,True
+2024-11-11,Armistice Day,False,False,False,True
+2024-04-01,Easter Monday,False,False,False,True
+2024-05-20,Whit Monday,False,False,False,True
+2024-05-09,Ascension Day,False,False,False,True
+2024-08-15,Assumption Day,False,False,False,True
+2024-11-01,All Saints' Day,False,False,False,True
+2024-12-25,Christmas Day,False,False,False,True
